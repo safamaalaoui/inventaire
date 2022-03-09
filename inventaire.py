@@ -4,4 +4,4 @@ def produit():
 
 
 def utilisateur():
-    return True
+    return False
