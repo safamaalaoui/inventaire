@@ -1,0 +1,2 @@
+def connexion():
+    return
